@@ -1,0 +1,6 @@
+<!-- CÓDIGO ACTUAL: -->
+<form id="leadForm" action="https://formspree.io/f/TU_ID_DE_FORMSPREE" method="POST" class="space-y-4">
+Solo sustituye TU_ID_DE_FORMSPREE por tu código de 8 caracteres. Por ejemplo, si tu ID fuera mqkenzqw:
+
+<!-- CÓDIGO CON TU ID REAL: -->
+<form id="leadForm" action="https://formspree.io/f/mqkenzqw" method="POST" class="space-y-4">
