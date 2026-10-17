@@ -1,0 +1,46 @@
+index.html.<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Academy active Lingua</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:Arial,sans-serif;color:#222;line-height:1.5}
+  header{background:#1e5eff;color:#fff;text-align:center;padding:60px 20px}
+  header h1{font-size:2rem;margin-bottom:10px}
+  .btn{display:inline-block;margin-top:20px;background:#25d366;color:#fff;
+       padding:14px 28px;border-radius:30px;text-decoration:none;font-weight:bold}
+  section{padding:40px 20px;max-width:800px;margin:auto}
+  h2{margin-bottom:15px;color:#1e5eff}
+  .cards{display:grid;gap:15px}
+  .card{background:#f2f5ff;padding:20px;border-radius:12px}
+  footer{background:#111;color:#ccc;text-align:center;padding:20px;font-size:.9rem}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Academy All English</h1>
+  <p>Aprende inglés de forma práctica y divertida</p>
+  <a class="btn" href="https://wa.me/0000000000">Escríbenos por WhatsApp</a>
+</header>
+
+<section>
+  <h2>Nuestros cursos</h2>
+  <div class="cards">
+    <div class="card"><h3>Inglés básico</h3><p>Para empezar desde cero.</p></div>
+    <div class="card"><h3>Inglés intermedio</h3><p>Mejora tu conversación.</p></div>
+    <div class="card"><h3>Inglés avanzado</h3><p>Fluidez para trabajo y viajes.</p></div>
+  </div>
+</section>
+
+<section>
+  <h2>¿Por qué elegirnos?</h2>
+  <p>Clases dinámicas, grupos pequeños y profesores con experiencia.</p>
+</section>
+
+<footer>© 2026 Academy All English</footer>
+
+</body>
+</html>
